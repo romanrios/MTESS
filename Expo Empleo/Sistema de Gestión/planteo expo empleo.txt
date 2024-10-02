@@ -1,0 +1,3 @@
+Planteo del problema
+
+Plantear conceptualmente un software o aplicación para organizar un evento, donde inicialmente se registran empresas para que publiquen sus búsquedas laborales, luego los interesados pueden postularse a esos puestos, el sistema asigna a los postulantes un turno para una entrevista con la empresa en el evento, organizados en bloques de media hora desde las 10 hasta las 15, con un cupo máximo de 300 postulantes por bloque, una vez completado el cupo no pueden asignarse más vacantes. Es necesario definir un criterio de filtrado automático de las postulaciones a las búsquedas laborales, por ejemplo que solo acepte postulantes con experiencia previa, o residentes en determinada localidad.
