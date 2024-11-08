@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Entrevista Laboral</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Simulador de Entrevista Laboral</h1>
+        <div id="quiz-container">
+            <!-- Pregunta 1 -->
+            <div class="question-container" id="question1">
+                <p><strong>1. ¿Cómo respondes si te preguntan sobre tus fortalezas?</strong></p>
+                <input type="radio" id="q1a" name="q1" value="A"> <label for="q1a">"Trabajo muy bien bajo presión y siempre hago lo que se me pide."</label><br>
+                <input type="radio" id="q1b" name="q1" value="B"> <label for="q1b">"Soy una persona muy proactiva y me adapto rápidamente a los cambios."</label><br>
+                <input type="radio" id="q1c" name="q1" value="C"> <label for="q1c">"No tengo muchas fortalezas, pero soy muy trabajador."</label>
+            </div>
+
+            <!-- Pregunta 2 -->
+            <div class="question-container" id="question2">
+                <p><strong>2. ¿Qué harías si no estás de acuerdo con tu jefe?</strong></p>
+                <input type="radio" id="q2a" name="q2" value="A"> <label for="q2a">"Le expresaría respetuosamente mi punto de vista y buscaría un entendimiento."</label><br>
+                <input type="radio" id="q2b" name="q2" value="B"> <label for="q2b">"Simplemente haría lo que me pidió sin decir nada."</label><br>
+                <input type="radio" id="q2c" name="q2" value="C"> <label for="q2c">"Ignoraría su opinión y haría lo que considero correcto."</label>
+            </div>
+
+            <!-- Botón para enviar respuestas -->
+            <button onclick="evaluateQuiz()">Enviar respuestas</button>
+
+            <!-- Contenedor para resultados -->
+            <div id="results-container"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

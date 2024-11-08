@@ -1,0 +1,5 @@
+Incorporar texto, en vez que diga directamente Practicantes, que diga: Quiero ser Practicante o Quiero Inscribirme en Prácticas
+
+y con Institución también, reemplazarlo por algo más completo como "Instituciones para la Formulación de Proyectos de Prácticas"
+
+También me pidió incorporar imágenes, por ej.  una foto de una persona haciendo una práctica, y para la institución alguna foto empresarial.
