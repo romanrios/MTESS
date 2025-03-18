@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 380 88.78">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #494963;
+        font-size: 19.11px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-family: Inter-Regular, Inter;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-12 {
+        font-family: Inter-Bold, Inter;
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        fill: #474764;
+      }
+
+      .cls-14 {
+        fill: url(#Degradado_sin_nombre_27);
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_27" data-name="Degradado sin nombre 27" x1="-3.14" y1="44.62" x2="79.03" y2="44.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffcb02"/>
+      <stop offset=".27" stop-color="#ff7402"/>
+      <stop offset=".5" stop-color="#ff6d7e"/>
+      <stop offset=".71" stop-color="#e42153"/>
+      <stop offset="1" stop-color="#3c3ae5"/>
+    </linearGradient>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <rect class="cls-13" x="104.75" width="2.5" height="88.78"/>
+      <text class="cls-1" transform="translate(132.51 29.54)"><tspan class="cls-12"><tspan x="0" y="0">Minis</tspan><tspan class="cls-4" x="50.75" y="0">t</tspan><tspan x="57.56" y="0">e</tspan><tspan class="cls-3" x="68.94" y="0">r</tspan><tspan x="76.86" y="0">io de </tspan><tspan class="cls-8" x="126.23" y="0">T</tspan><tspan class="cls-11" x="137.9" y="0">r</tspan><tspan x="145.42" y="0">a</tspan><tspan class="cls-15" x="156.51" y="0">b</tspan><tspan x="168.74" y="0">ajo</tspan><tspan class="cls-9" x="196.73" y="0">,</tspan></tspan><tspan class="cls-12"><tspan x="0" y="22.44">Empleo y Segu</tspan><tspan class="cls-17" x="137.77" y="22.44">r</tspan><tspan x="145.69" y="22.44">idad Social</tspan></tspan><tspan class="cls-6"><tspan x="0" y="44.88">de la P</tspan><tspan class="cls-7" x="61.14" y="44.88">r</tspan><tspan class="cls-2" x="68.02" y="44.88">o</tspan><tspan x="79.1" y="44.88">vincia de San</tspan><tspan class="cls-10" x="199.88" y="44.88">t</tspan><tspan x="206.23" y="44.88">a </tspan><tspan class="cls-16" x="222.33" y="44.88">F</tspan><tspan class="cls-5" x="232.85" y="44.88">e</tspan></tspan></text>
+      <path class="cls-14" d="M74.74,44.5h-30.01c-.54,0-.98-.45-.98-1v-9.06c0-.54.44-.98.98-.98h30.01c.54,0,.98.44.98.98v9.06c0,.54-.44,1-.98,1h0ZM58.41,62.88h-13.69c-.54,0-.98-.44-.98-.98v-9.06c0-.54.44-1,.98-1h13.69c.54,0,.98.45.98,1v9.06c0,.54-.44.98-.98.98h0ZM38.65,33.46h-.56c-2.66,0-5.31.32-7.92,1.07-3.35.96-6.57,2.5-9.66,4.68-1.41.98-2.85,1.89-4.31,2.71-3.29,1.84-6.73,2.7-10.23,2.91-1.45.08-3.46,0-5.1-.23-.46-.06-.88.31-.88.78v9.38c0,.39.31.73.71.78,1.49.14,3.43.3,4.75.25,2.05-.07,4.1-.38,6.14-.8,3.49-.71,6.82-2.33,10.05-4.42,1.97-1.29,3.93-2.63,5.95-3.67,3.6-1.84,7.34-2.56,11.15-2.43h.01c.52.02.95-.38.95-.9v-9.02c0-.58-.47-1.07-1.07-1.07h0ZM38.65,51.84h-.56c-2.66,0-5.31.32-7.92,1.07-3.35.96-6.57,2.5-9.66,4.68-1.41.98-2.85,1.89-4.31,2.71-3.29,1.85-6.73,2.71-10.23,2.91-1.45.09-3.46,0-5.1-.22-.46-.07-.88.3-.88.76v9.38c0,.41.31.74.71.78,1.49.14,3.43.3,4.75.25,2.05-.07,4.1-.38,6.14-.79,3.49-.72,6.82-2.34,10.05-4.44,1.97-1.27,3.93-2.63,5.95-3.67,3.6-1.84,7.34-2.56,11.15-2.42h.01c.52.01.95-.39.95-.92v-9.01c0-.59-.47-1.08-1.07-1.08h0ZM74.74,26.1h-30.01c-.54,0-.98-.44-.98-.98v-9.06c0-.54.44-.98.98-.98h30.01c.54,0,.98.44.98.98v9.06c0,.54-.44.98-.98.98h0ZM38.65,15.08h-.56c-2.66,0-5.31.32-7.92,1.07-3.35.96-6.57,2.5-9.66,4.68-1.41.98-2.85,1.89-4.31,2.71-3.29,1.84-6.73,2.7-10.23,2.91-1.45.08-3.46,0-5.1-.23-.46-.06-.88.3-.88.78v9.38c0,.39.31.73.71.78,1.49.14,3.43.3,4.75.25,2.05-.08,4.1-.38,6.14-.8,3.49-.71,6.82-2.33,10.05-4.42,1.97-1.29,3.93-2.64,5.95-3.67,3.6-1.84,7.34-2.56,11.15-2.43h.01c.52.02.95-.39.95-.9v-9.02c0-.59-.47-1.07-1.07-1.07h0Z"/>
+    </g>
+  </g>
+</svg>
